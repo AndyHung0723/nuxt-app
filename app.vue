@@ -4,6 +4,9 @@
       <h1 class="text-9xl font-semibold text-blue-600">Title</h1>
       <p class="mt-4 text-6xl font-bold text-gray-900">Description</p>
     </div>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
 
